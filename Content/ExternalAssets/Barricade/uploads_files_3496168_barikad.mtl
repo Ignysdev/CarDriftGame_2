@@ -1,0 +1,88 @@
+# Blender MTL File: 'barikad.blend'
+# Material Count: 7
+
+newmtl Материал.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Ken\\Desktop\\6\\untitled_Материал.001_Normal.png
+map_Kd C:\\Users\\Ken\\Desktop\\6\\untitled_Материал.001_BaseColor.png
+map_Ns C:\\Users\\Ken\\Desktop\\6\\untitled_Материал.001_Roughness.png
+refl C:\\Users\\Ken\\Desktop\\6\\untitled_Материал.001_Metallic.png
+
+newmtl Материал.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Материал.006
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Материал.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Ken\\Desktop\\3\\3_None_Normal.png
+map_Kd C:\\Users\\Ken\\Desktop\\3\\3_None_BaseColor.png
+map_Ns C:\\Users\\Ken\\Desktop\\3\\3_None_Roughness.png
+refl C:\\Users\\Ken\\Desktop\\3\\3_None_Metallic.png
+
+newmtl Материал.009
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Ken\\Desktop\\4\\4_None_Normal.png
+map_Kd C:\\Users\\Ken\\Desktop\\4\\4_None_BaseColor.png
+map_Ns C:\\Users\\Ken\\Desktop\\4\\4_None_Roughness.png
+refl C:\\Users\\Ken\\Desktop\\4\\4_None_Metallic.png
+
+newmtl Материал.010
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Ken\\Desktop\\1\\5_None_Normal.png
+map_Kd C:\\Users\\Ken\\Desktop\\1\\5_None_BaseColor.png
+map_Ns C:\\Users\\Ken\\Desktop\\1\\5_None_Roughness.png
+refl C:\\Users\\Ken\\Desktop\\1\\5_None_Metallic.png
+
+newmtl Материал.013
+Ns 115.520186
+Ka 1.000000 1.000000 1.000000
+Kd 0.004720 0.184456 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
